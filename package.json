@@ -10,6 +10,6 @@
   },
   "devDependencies": {
     "grunt": "*",
-    "grunt-cordovacli": "*"
+    "grunt-cordovacli": ">=1.0.1"
   }
 }
