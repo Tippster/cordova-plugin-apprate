@@ -6,7 +6,7 @@
     "url": "https://github.com/pushandplay/cordova-plugin-apprate"
   },
   "dependencies": {
-    "cordova": "*"
+    "cordova": ">=9.0.0"
   },
   "devDependencies": {
     "grunt": "*",
